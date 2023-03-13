@@ -1,4 +1,4 @@
-baseURL = "https://ishaanbhimwal.github.io/"
+baseURL = "https://ishaanbhimwal.github.io"
 title   = "Ishaan Bhimwal"
 languageCode = "en-us"
 theme = "hello-friend-ng"
@@ -61,7 +61,7 @@ disableHugoGeneratorInject = false
 
   # Home subtitle of the index page.
   #
-  homeSubtitle = "Engineering Student // Programmer // Problem-solver"
+  homeSubtitle = "Robotics Student // Programmer // Problem-solver"
 
   # Set a background for the homepage
   # backgroundImage = "assets/images/background.jpg"
@@ -117,7 +117,7 @@ disableHugoGeneratorInject = false
 
     topText = []
     bottomText = [
-      "Powered by <a href=\"http://gohugo.io\">Hugo</a>",
+      "Powered by <a href=\"https://gohugo.io\">Hugo</a>",
       "Made with &#10084; by <a href=\"https://github.com/ishaanbhimwal\">Ishaan Bhimwal</a>"
     ]
 
@@ -184,15 +184,15 @@ disableHugoGeneratorInject = false
   [[menu.main]]
     identifier = "blog"
     name       = "Blog"
-    url        = "blog/"
+    url        = "blog"
     weight     = 1
   [[menu.main]]
     identifier = "projects"
     name       = "Projects"
-    url        = "projects/"
+    url        = "projects"
     weight     = 2
   [[menu.main]]
     identifier = "about"
     name       = "About"
-    url        = "about/"
+    url        = "about"
     weight     = 3
