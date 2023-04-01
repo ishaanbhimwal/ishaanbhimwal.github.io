@@ -2,7 +2,7 @@
 title: "Projects"
 ---
 
-Some of my projects I work on in my free time:
+Some of the projects I worked on in the past few years:
 
 <details>
 <summary>2023: SG-AI Voice Assistant</summary>
