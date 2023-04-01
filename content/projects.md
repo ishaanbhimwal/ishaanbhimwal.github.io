@@ -5,13 +5,13 @@ title: "Projects"
 Some of my projects I work on in my free time:
 
 <details>
-<summary>2023: SG-AI Voice Assistant </summary>
+<summary>2023: SG-AI Voice Assistant</summary>
 Python-based voice assistant developed using OpenAI's GPT-3.5 language model. <a href="https://github.com/ishaanbhimwal/SG-AI">https://github.com/ishaanbhimwal/SG-AI</a>
 <br><br>
 </details>
 
 <details>
-<summary>2022: online-python-compiler </summary>
+<summary>2022: online-python-compiler</summary>
 Online Python Compiler made using JavaScript. <a href="https://github.com/ishaanbhimwal/online-python-compiler">https://github.com/ishaanbhimwal/online-python-compiler</a>
 <br><br>
 </details>
