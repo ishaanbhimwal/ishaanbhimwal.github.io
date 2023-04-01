@@ -39,7 +39,7 @@ url = "https://github.com/joeroe/risotto"
 [[params.socialLinks]]
 icon = "fa-solid fa-envelope"
 title = "Email"
-url = "mailto:example@example.com"
+url = "mailto:ishaanbhimwal@protonmail.com"
 
 [[params.socialLinks]]
 icon = "fa-brands fa-linkedin"
@@ -55,10 +55,16 @@ url = "https://www.linkedin.com/in/ishaan-bhimwal-2a3930252/"
     weight = 1
 
   [[menu.main]]
-    identifier = "other"
-    name = "other"
-    url = "/other/"
+    identifier = "projects"
+    name = "Projects"
+    url = "/projects/"
     weight = 2
+
+  [[menu.main]]
+    identifier = "other"
+    name = "Other"
+    url = "/other/"
+    weight = 3
 
 [taxonomies]
 category = "categories"
