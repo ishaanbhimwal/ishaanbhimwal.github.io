@@ -24,7 +24,7 @@ palette = "base16-dark"
 [params.about]
 title = "ishaanbhimwal"
 #description = "A [hugo](https://gohugo.io) theme inspired by terminal ricing."
-logo = "images/ishaanbhimwal.jpg"
+#logo = "images/ishaanbhimwal.jpg"
 
 # Sidebar: social links
 # Available icon sets:
