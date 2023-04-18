@@ -34,7 +34,7 @@ title = "ishaanbhimwal"
 [[params.socialLinks]]
 icon = "fa-brands fa-github"
 title = "GitHub"
-url = "https://github.com/joeroe/risotto"
+url = "https://github.com/ishaanbhimwal"
 
 [[params.socialLinks]]
 icon = "fa-solid fa-envelope"
@@ -44,7 +44,12 @@ url = "mailto:ishaanbhimwal@protonmail.com"
 [[params.socialLinks]]
 icon = "fa-brands fa-linkedin"
 title = "Linkedin"
-url = "https://www.linkedin.com/in/ishaan-bhimwal-2a3930252/"
+url = "https://www.linkedin.com/in/ishaanbhimwal"
+
+[[params.socialLinks]]
+icon = "fa-solid fa-file"
+title = "Resume"
+url = "https://rxresu.me/ishaan2479/ishaan-bhimwal"
 
 [menu]
 
