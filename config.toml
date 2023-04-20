@@ -46,11 +46,6 @@ icon = "fa-brands fa-linkedin"
 title = "Linkedin"
 url = "https://www.linkedin.com/in/ishaanbhimwal"
 
-[[params.socialLinks]]
-icon = "fa-solid fa-file"
-title = "Resume"
-url = "https://drive.google.com/file/d/1fr7du_1OM2PMnW-LUCw8MzHwO58ccvsa/view?usp=sharing"
-
 [menu]
 
   [[menu.main]]
