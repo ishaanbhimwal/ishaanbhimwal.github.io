@@ -1,21 +1,4 @@
-/* fira-code-regular - latin */
-@font-face {
-  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
-  font-family: "Fira Code";
-  font-style: normal;
-  font-weight: 400;
-  src: url("../fonts/fira-code-v22-latin-regular.woff2") format("woff2"); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
-}
-
-/* fira-code-500 - latin */
-@font-face {
-  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
-  font-family: "Fira Code";
-  font-style: normal;
-  font-weight: 500;
-  src: url("../fonts/fira-code-v22-latin-500.woff2") format("woff2"); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
-}
-
-body {
-  font-family: "Fira Code Retina", "Fira Code", monospace;
+/* Fonts */
+:root {
+  --font-monospace: "JetBrains Mono", monospace;
 }
