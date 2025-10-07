@@ -1,4 +1,5 @@
 /* Fonts */
 :root {
-  --font-monospace: "Atkinson Hyerlegible Mono Medium", monospace;
+  --font-monospace: "Atkinson Hyerlegible Mono", monospace;
+  --font-monospace-weight: medium; 
 }
