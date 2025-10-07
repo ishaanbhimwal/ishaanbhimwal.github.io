@@ -1,5 +1,8 @@
 /* Fonts */
 :root {
   --font-monospace: "Atkinson Hyperlegible Mono", monospace;
-  --font-monospace-weight: 500; 
+}
+
+body {
+  font-weight: 500;
 }
