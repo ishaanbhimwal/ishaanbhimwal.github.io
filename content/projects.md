@@ -5,6 +5,12 @@ title: "Projects"
 Some of the projects I worked on in the past few years:
 
 <details>
+<summary>2025: ros2tree</summary>
+A set of Python cli tools for ROS 2, inspired by the tree command. <a href="https://github.com/ishaanbhimwal/ros2tree">https://github.com/ishaanbhimwal/ros2tree</a>
+<br><br>
+</details>
+
+<details>
 <summary>2024: 8-bit Binary LED Counter</summary>
 Visualize binary counting using LEDs. <a href="https://github.com/ishaanbhimwal/8-bit-Binary-LED-Counter">https://github.com/ishaanbhimwal/8-bit-Binary-LED-Counter</a>
 <br><br>
