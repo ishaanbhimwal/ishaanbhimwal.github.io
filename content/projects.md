@@ -6,7 +6,7 @@ Some of the projects I worked on in the past few years:
 
 <details>
 <summary>2025: ros2tree</summary>
-A set of Python cli tools for ROS 2, inspired by the tree command. <a href="https://github.com/ishaanbhimwal/ros2tree">https://github.com/ishaanbhimwal/ros2tree</a>
+ROS 2 CLI tool to view node/topic tree, inspired by the tree command. <a href="https://github.com/ishaanbhimwal/ros2tree">https://github.com/ishaanbhimwal/ros2tree</a>
 <br><br>
 </details>
 
